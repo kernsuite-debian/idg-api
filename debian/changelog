@@ -1,6 +1,6 @@
-idg-api (0-1) bionic; urgency=medium
+idg-api (0.0~git20180906.9535224-1) bionic; urgency=medium
 
-  [ KERN packaging ]
-  * hello world
+  [ Gijs Molenaar ]
+  * New upstream version 0.0~git20180906.9535224
 
- -- KERN packaging <packaging@kernsuite.info>  Thu, 27 Sep 2018 16:52:02 +0200
+ -- KERN packaging <packaging@kernsuite.info>  Thu, 27 Sep 2018 17:13:36 +0200
