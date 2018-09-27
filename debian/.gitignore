@@ -1,0 +1,8 @@
+.debhelper/
+files
+*.debhelper.log
+*.substvars
+tmp/
+idg-api-dev/
+libidg-api0/
+

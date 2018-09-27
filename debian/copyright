@@ -1,0 +1,12 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: idg-api
+Source: https://gitlab.com/astron-idg/idg-api
+
+Files:     debian/*
+Copyright: Gijs Molenaar <gijs@pythonic.nl>
+License:   MIT
+
+Files:     * 
+Copyright: 2009-2010 ASTRON (Netherlands Institute for Radio Astronomy) P.O.Box 2, 7990 AA Dwingeloo, The Netherlands
+License:   GPL-3.0+
+
