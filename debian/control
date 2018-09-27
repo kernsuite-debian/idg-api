@@ -5,7 +5,9 @@ Maintainer: KERN packaging <packaging@kernsuite.info>
 Build-Depends:
  cmake,
  debhelper (>=9),
- libidg-dev
+ libidg-dev,
+ liblapack-dev,
+ libblas-dev
 Standards-Version: 3.9.8
 Homepage: https://gitlab.com/astron-idg/idg-api
 
